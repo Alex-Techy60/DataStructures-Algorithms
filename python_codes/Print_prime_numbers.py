@@ -1,0 +1,13 @@
+a = int(input("Enter a number :  "))
+n = 2
+print(n)
+a = a-1
+while a>0:
+    n = n+1
+    for i in range(2,n):
+        if n%i==0:
+            break
+        elif i==n-1:
+            print(n)
+            a = a-1
+            break

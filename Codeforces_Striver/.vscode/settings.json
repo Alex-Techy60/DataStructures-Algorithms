@@ -1,0 +1,7 @@
+{
+    "java.configuration.checkProjectSettingsExistance": false,
+    "java.project.importHint.enabled": false,
+    "java.configuration.validateOnSave": "none",
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.format.enabled": false
+}
